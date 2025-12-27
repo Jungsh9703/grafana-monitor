@@ -1,0 +1,520 @@
+[2025-12-24 10:55:47] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 10:55:47] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 10:55:47] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 10:55:47] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 10:55:47] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 10:55:47] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 10:55:56] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:00:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:00:50] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:05:35] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:05:45] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:10:41] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:10:41] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:10:41] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:10:42] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:10:42] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:10:42] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:10:55] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:15:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:15:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:15:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:15:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:15:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:15:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:15:46] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:20:50] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:20:50] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:20:50] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:20:51] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:20:51] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:20:51] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:20:59] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:25:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:25:45] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:30:47] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:30:57] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:35:36] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:35:43] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:40:38] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:40:48] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:45:43] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:45:53] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:50:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:50:46] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 11:55:51] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 11:55:51] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 11:55:51] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 11:55:52] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 11:55:52] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 11:55:52] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 11:56:02] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:00:38] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:00:38] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:00:38] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:00:39] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:00:39] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:00:39] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:00:51] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:05:42] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:05:54] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:10:35] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:10:35] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:10:35] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:10:36] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:10:36] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:10:36] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:10:43] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:15:44] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:15:44] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:15:44] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:15:45] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:15:45] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:15:45] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:15:56] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:20:42] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:20:49] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:25:38] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:25:45] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:30:49] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:30:59] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:35:34] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:35:42] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:40:42] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:40:50] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:45:38] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:45:50] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:50:41] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:50:52] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 12:55:38] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 12:55:44] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 13:00:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 13:00:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 13:00:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 13:00:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 13:00:38] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 13:00:38] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 13:00:45] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 13:05:42] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 13:05:42] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 13:05:42] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 13:05:43] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 13:05:43] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 13:05:43] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 13:05:49] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 13:10:39] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 13:10:47] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 13:15:44] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 13:15:55] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-24 13:20:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-24 13:20:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-24 13:20:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-24 13:20:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-24 13:20:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-24 13:20:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-24 13:20:43] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:30:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:30:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:30:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:30:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:30:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:30:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:30:43] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:35:45] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:35:50] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:40:36] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:40:42] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:45:40] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:45:40] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:45:40] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:45:41] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:45:41] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:45:41] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:45:46] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:50:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:50:45] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 22:55:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 22:55:44] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 23:00:48] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 23:00:48] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 23:00:48] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 23:00:48] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 23:00:49] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 23:00:49] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 23:00:53] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 23:05:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 23:05:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 23:05:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 23:05:37] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 23:05:37] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 23:05:37] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 23:05:43] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 23:10:41] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 23:10:48] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] API 연결 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] MySQL 연결 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] 테이블 초기 셋팅 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] list_all_compartments() 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] list_availability_domains() 완료 in filesystem_list.py
+[2025-12-27 23:15:36] - [INFO] FS + Snapshot + MountTarget + Export 수집 시작 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] FS + Snapshot + MountTarget + Export 저장 완료 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 더 이상 보이지 않는 리소스 정리 시작 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 삭제된 FileSystem row 수: 0 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 삭제된 Snapshot row 수: 0 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 삭제된 MountTarget row 수: 0 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 삭제된 Export row 수: 0 in filesystem_list.py
+[2025-12-27 23:15:42] - [INFO] 더 이상 보이지 않는 리소스 정리 완료 in filesystem_list.py

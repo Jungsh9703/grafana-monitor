@@ -1,0 +1,320 @@
+[2025-12-24 10:55:14] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 10:55:15] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 10:55:15] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 10:55:15] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 10:55:15] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 10:55:15] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 10:55:29] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 10:55:29] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:00:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:00:11] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:00:11] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:00:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:00:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:00:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:00:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:00:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:05:09] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:05:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:05:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:10:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:10:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:10:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:10:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:10:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:10:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:10:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:10:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:15:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:15:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:15:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:15:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:15:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:15:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:15:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:15:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:20:15] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:20:16] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:20:16] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:20:16] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:20:16] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:20:16] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:20:30] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:20:30] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:25:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:25:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:25:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:25:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:25:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:25:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:25:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:25:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:30:15] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:30:15] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:30:15] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:30:16] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:30:16] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:30:16] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:30:30] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:30:30] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:35:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:35:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:35:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:35:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:35:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:35:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:35:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:35:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:40:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:40:11] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:40:11] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:40:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:40:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:40:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:40:27] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:40:27] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:45:15] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:45:16] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:45:16] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:45:16] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:45:16] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:45:16] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:45:32] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:45:32] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:50:09] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:50:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:50:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 11:55:15] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 11:55:15] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 11:55:15] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 11:55:16] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 11:55:16] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 11:55:16] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 11:55:33] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 11:55:33] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:00:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:00:11] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:00:11] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:00:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:00:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:00:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:00:27] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:00:27] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:05:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:05:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:05:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:05:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:05:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:05:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:05:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:05:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:10:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:10:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:10:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:10:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:10:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:10:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:10:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:10:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:15:13] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:15:13] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:15:13] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:15:14] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:15:14] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:15:14] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:15:28] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:15:28] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:20:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:20:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:20:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:20:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:20:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:20:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:20:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:20:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:25:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:25:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:25:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:25:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:25:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:25:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:25:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:25:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:30:15] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:30:16] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:30:16] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:30:16] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:30:16] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:30:16] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:30:30] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:30:30] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:35:08] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:35:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:35:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:35:09] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:35:09] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:35:09] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:35:23] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:35:23] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:40:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:40:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:40:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:40:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:40:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:40:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:40:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:40:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:45:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:45:11] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:45:11] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:45:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:45:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:45:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:45:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:45:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:50:13] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:50:30] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:50:30] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 12:55:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 12:55:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 12:55:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 12:55:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 12:55:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 12:55:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 12:55:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 12:55:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 13:00:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 13:00:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 13:00:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 13:05:12] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 13:05:12] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 13:05:12] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 13:05:13] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 13:05:13] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 13:05:13] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 13:05:27] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 13:05:27] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 13:10:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 13:10:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 13:10:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 13:15:11] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 13:15:12] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 13:15:12] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 13:15:12] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 13:15:12] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 13:15:12] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 13:15:27] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 13:15:27] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-24 13:20:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-24 13:20:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-24 13:20:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-24 13:20:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-24 13:20:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-24 13:20:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-24 13:20:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-24 13:20:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:30:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:30:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:30:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:30:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:30:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:30:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:30:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:30:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:35:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:35:28] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:35:28] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:40:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:40:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:40:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:40:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:40:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:40:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:40:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:40:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:45:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:45:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:45:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:45:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:45:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:45:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:45:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:45:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:50:10] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:50:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:50:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:50:11] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:50:11] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:50:11] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:50:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:50:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 22:55:09] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 22:55:26] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 22:55:26] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 23:00:16] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 23:00:16] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 23:00:16] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 23:00:17] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 23:00:17] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 23:00:17] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 23:00:32] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 23:00:32] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 23:05:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 23:05:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 23:05:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 23:05:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 23:05:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 23:05:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 23:05:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 23:05:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 23:10:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 23:10:09] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 23:10:09] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 23:10:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 23:10:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 23:10:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 23:10:25] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 23:10:25] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py
+[2025-12-27 23:15:09] - [INFO] MySQL 연결 완료 in instance_list.py
+[2025-12-27 23:15:10] - [INFO] API 연결 완료 in instance_list.py
+[2025-12-27 23:15:10] - [INFO] init_schema() 완료 in instance_list.py
+[2025-12-27 23:15:10] - [INFO] load_compartments_with_root() 완료 in instance_list.py
+[2025-12-27 23:15:10] - [INFO] build_compartment_paths() 완료 in instance_list.py
+[2025-12-27 23:15:10] - [INFO] 테넌시 내에 있는 인스턴스 목록 수집 시작 in instance_list.py
+[2025-12-27 23:15:24] - [INFO] 삭제된 인스턴스 정리 완료, 0개 행 삭제 in instance_list.py
+[2025-12-27 23:15:24] - [INFO] 테넌시 내에 있는 인스턴스 목록 저장 완료 in instance_list.py

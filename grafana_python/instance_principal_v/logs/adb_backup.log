@@ -1,0 +1,451 @@
+[2025-12-24 10:14:02] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 17개 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] ADB 백업 수집 완료, 총 17개 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 10:14:02] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] 동기화로 삭제된 row 수: 1 in adb_backup.py
+[2025-12-24 10:56:03] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:00:56] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:05:49] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:05:49] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:05:49] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:05:49] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:05:50] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:11:01] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:11:01] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:11:01] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:11:01] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:11:01] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:11:02] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:15:53] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:15:53] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:15:53] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:15:53] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:15:54] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:21:07] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:21:07] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:21:07] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:21:07] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:21:07] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:21:08] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:25:51] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:25:51] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:25:51] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:25:51] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:25:52] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:31:03] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:31:03] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:31:03] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:31:03] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:31:03] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:31:04] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:35:50] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:40:54] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:45:59] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:45:59] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:45:59] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:45:59] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:45:59] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:46:00] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:50:50] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:50:50] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:50:50] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:50:50] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:50:51] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 11:56:09] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 11:56:09] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 11:56:09] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 11:56:09] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 11:56:09] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 11:56:10] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:00:56] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:00:56] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:00:56] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:00:56] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:00:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:00:57] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:05:58] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:05:58] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:05:58] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:05:58] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:06:02] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:10:48] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:10:48] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:10:48] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:10:48] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:10:48] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:10:49] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:16:03] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:20:55] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:20:55] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:20:55] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:20:55] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:20:56] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:25:52] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:31:08] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:31:08] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:31:08] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:31:08] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:31:09] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:35:48] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:40:58] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:45:55] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:45:55] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:45:55] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:45:55] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:45:56] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:50:57] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:50:57] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:50:57] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:50:57] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:50:58] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 12:55:50] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 12:55:50] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 12:55:50] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 12:55:50] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 12:55:51] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 12:55:54] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 13:00:51] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 13:05:54] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 13:05:54] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 13:05:54] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 13:05:54] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 13:05:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 13:05:58] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 13:10:54] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 13:10:54] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 13:10:54] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 13:10:54] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 13:10:55] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 13:16:02] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 13:16:02] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 13:16:02] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 13:16:02] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 13:16:05] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 13:16:07] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-24 13:20:48] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-24 13:20:48] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-24 13:20:48] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-24 13:20:48] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 16개 in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] ADB 백업 수집 완료, 총 16개 in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-24 13:20:49] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:30:49] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:35:56] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:35:56] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:35:56] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:35:56] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:35:56] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:35:57] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:40:48] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:40:48] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:40:48] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:40:48] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:40:48] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:40:49] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:45:52] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:45:52] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:45:52] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:45:52] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:45:52] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:45:53] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:50:49] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:50:49] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:50:49] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:50:49] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:50:51] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:50:52] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 22:55:50] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 22:55:50] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 22:55:50] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 22:55:50] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 22:55:50] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 22:55:51] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 23:01:01] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 23:05:49] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 23:10:54] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 23:10:54] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 23:10:54] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 23:10:54] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 23:10:55] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
+[2025-12-27 23:15:47] - [INFO] API 연결 완료 in adb_backup.py
+[2025-12-27 23:15:47] - [INFO] MySQL 연결 완료 in adb_backup.py
+[2025-12-27 23:15:47] - [INFO] 테이블 초기 셋팅 완료 in adb_backup.py
+[2025-12-27 23:15:47] - [INFO] ADB 백업 수집 시작 (전체 동기화 모드) in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] E7Q76820EL5TC7UP (ocid1.autonomousdatabase.oc1.ap-seoul-1.anuwgljrujva5maasqogtr3xxouvnx7tk5iyardy47hglrwl6klcdyxzcrzq) 백업 조회 시작 in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] get_all_backups() 완료 - E7Q76820EL5TC7UP, 18개 in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] E7Q76820EL5TC7UP 백업 저장 완료 in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] ADB 백업 수집 완료, 총 18개 in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] adb_backup_status 테이블 동기화 시작 (조회되지 않은 백업 삭제) in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] 동기화로 삭제된 row 수: 0 in adb_backup.py
+[2025-12-27 23:15:48] - [INFO] adb_backup_status 테이블 동기화 완료 in adb_backup.py
